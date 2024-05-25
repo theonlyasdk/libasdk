@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Ormali",
+        "description": "Tasks/Schedule manager",
+        "url": "https://github.com/theonlyasdk/ormali"
+    },
+    {
+        "name": "Geminix",
+        "description": "Frontend for Google's Gemini LLM",
+        "url": "https://github.com/theonlyasdk/geminix"
+    }
+]
