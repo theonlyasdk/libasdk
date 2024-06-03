@@ -5,8 +5,13 @@
         "url": "https://github.com/theonlyasdk/ormali"
     },
     {
-        "name": "Geminix",
-        "description": "Frontend for Google's Gemini LLM",
-        "url": "https://github.com/theonlyasdk/geminix"
+        "name": "AI Code Converter",
+        "description": "Convert programming languages with the help of Google's Gemini LLM ",
+        "url": "https://github.com/theonlyasdk/ai-code-converter"
+    },
+    {
+        "name": "FakeEngine",
+        "description": "It's just a search engine. Trust me.",
+        "url": "https://github.com/theonlyasdk/fake-engine"
     }
 ]
