@@ -32,7 +32,7 @@ let logger = new Logger("LibASDK More Apps List");
  * @returns The function is returning a boolean value based on whether the
  * input string is not undefined, not null, and not an empty string.
  */
-const check_not_null_or_empty = (string) => {
+function checkNotNullOrEmpty (string) {
     return string !== undefined && string !== null && string !== "";
 }
 
