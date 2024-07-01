@@ -3,19 +3,22 @@
     "name": "Ormali",
     "description": "Tasks/Schedule manager/Todo List",
     "url": "https://github.com/theonlyasdk/ormali",
-    "tags": "todo,utility"
+    "tags": "todo,utility",
+    "demo_url": "https://theonlyasdk.github.io/ormali/"
   },
   {
     "name": "AI Code Converter",
     "description": "Convert programming languages with the help of Google's Gemini LLM ",
     "url": "https://github.com/theonlyasdk/ai-code-converter",
-    "tags": "ai,code,utility"
+    "tags": "ai,code,utility",
+    "demo_url": "https://theonlyasdk.github.io/ai-code-converter/"
   },
   {
     "name": "Blockterm",
     "description": "A small web terminal written using plain ol' HTML, CSS and JS",
     "url": "https://github.com/theonlyasdk/blockterm/",
-    "tags": "fun,demo"
+    "tags": "fun,demo",
+    "demo_url": "https://theonlyasdk.github.io/blockterm"
   },
   {
     "name": "Geminix",
@@ -27,12 +30,14 @@
     "name": "FakeEngine",
     "description": "It's just a search engine. Trust me.",
     "url": "https://github.com/theonlyasdk/fake-engine",
-    "tags": "fun"
+    "tags": "fun",
+    "demo_url": "https://theonlyasdk.github.io/fake-engine"
   },
   {
     "name": "Random Number Generator",
     "description": "Press a key to generate a random number",
     "url": "https://github.com/theonlyasdk/random-number-generator",
-    "tags": "random-number-generator,utility"
+    "tags": "random-number-generator,utility",
+    "demo_url": "https://theonlyasdk.github.io/random-number-generator"
   }
 ]
