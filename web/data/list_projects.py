@@ -16,11 +16,16 @@ for project in data:
 	desc = project["description"]
 	url = project["url"]
 	tags = project["tags"]
+	demo_url = "None"
+	
+	if "demo_url" in project:
+		demo_url = project["demo_url"]
 
 	print("-----------------------")
 	print(f"Name: {name}")
 	print(f"Desc: {desc}")
 	print(f"URL: {url}")
+	print(f"Demo URL: {demo_url}")
 	print(f"Tags: {tags}")
 	print("-----------------------")
 
