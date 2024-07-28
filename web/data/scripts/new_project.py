@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-import json
+import json, sys
 
-project_file = "projects.json"
+project_file = sys.argv[1]
 data = []
 
 with open(project_file, "r") as file:
