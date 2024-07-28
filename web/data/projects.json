@@ -39,5 +39,12 @@
     "url": "https://github.com/theonlyasdk/random-number-generator",
     "tags": "random-number-generator,utility",
     "demo_url": "https://theonlyasdk.github.io/random-number-generator"
+  },
+  {
+    "name": "Word Counter",
+    "description": "Simple webpage that allows you to count the number of words in a given block of text.",
+    "url": "https://github.com/theonlyasdk/word-counter-html",
+    "tags": "web,bulma-css,utility",
+    "demo_url": "https://theonlyasdk.github.io/word-counter-html/"
   }
 ]

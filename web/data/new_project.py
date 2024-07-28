@@ -15,15 +15,17 @@ url = input("Project URL: ")
 demo_url = input("Demo URL (default none): ")
 tags = input("Tags: ")
 
-data.append({
+data_to_append = {
     "name": name,
     "description": desc,
     "url": url,
     "tags": tags,
-})
+}
 
 if not demo_url == "":
-    data['demo_url'] = demo_url
+    data_to_append['demo_url'] = demo_url
+
+data.append(data_to_append)
 
 with open(project_file, "w") as file:
     json.dump(data, file, indent=2)
