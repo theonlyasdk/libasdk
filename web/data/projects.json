@@ -46,5 +46,11 @@
     "url": "https://github.com/theonlyasdk/word-counter-html",
     "tags": "web,bulma-css,utility",
     "demo_url": "https://theonlyasdk.github.io/word-counter-html/"
+  },
+  {
+    "name": "TextEditor",
+    "description": "A simple text editor with syntax highlighting written in FreePascal/Lazarus",
+    "url": "https://github.com/theonlyasdk/TextEditor",
+    "tags": "freepascal,lazarus,text-editor,utility"
   }
 ]
