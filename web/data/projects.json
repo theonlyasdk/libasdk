@@ -54,7 +54,7 @@
     "tags": "freepascal,lazarus,text-editor,utility"
   },
   {
-    "name": "base64-tools-html",
+    "name": "Base64 Tools",
     "description": "Simple webpage that allows you to encode and decode Base64.",
     "url": "https://github.com/theonlyasdk/base64-tools-html",
     "tags": "base64,utility,javascript,web",
