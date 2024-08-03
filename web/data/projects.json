@@ -52,5 +52,12 @@
     "description": "A simple text editor with syntax highlighting written in FreePascal/Lazarus",
     "url": "https://github.com/theonlyasdk/TextEditor",
     "tags": "freepascal,lazarus,text-editor,utility"
+  },
+  {
+    "name": "base64-tools-html",
+    "description": "Simple webpage that allows you to encode and decode Base64.",
+    "url": "https://github.com/theonlyasdk/base64-tools-html",
+    "tags": "base64,utility,javascript,web",
+    "demo_url": "https://theonlyasdk.github.io/base64-tools-html/"
   }
 ]
