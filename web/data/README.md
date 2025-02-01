@@ -1,17 +1,17 @@
-# Data
-This folder contains data used across the apps I make.
+# Data Directory
+
+This directory contains essential data utilized across various applications that I create.
 
 ### projects.json
-`projects.json` file is used in [my website](https://theonlyasdk.github.io/) to show a list of my projects.
+The `projects.json` file is used on [my website](https://theonlyasdk.github.io/) to display a comprehensive list of projects.
 
 ### more_apps_list.json
-Similar to `projects.json` but contains only hand-picked apps
+The `more_apps_list.json` file contains a curated list of selected applications.
 
-# Helper scripts
+# Helper Scripts
 
 ## new_project.py
-Script to add new project data to `projects.json`
+This script facilitates the addition of new project data to the `projects.json` file.
 
 ## list_projects.py
-Script to list projects in `projects.json`
-
+This script generates a list of projects from the `projects.json` file.
